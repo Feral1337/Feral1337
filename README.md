@@ -2,8 +2,7 @@
 
 ### Меня зовут Крайнев Антон :raising_hand: 
 
-Experienced IT professional with over 15 years of expertise in Information Technology Management and Operations. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
-
+Я - начинающий специалист в области Data Science, вдохновленный возможностями, которые открывает анализ данных и машинное обучение.
 
 ###### Databases: 
 PostgreSQL
@@ -22,22 +21,22 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
   <tbody>
 
 <tr>
-      <td><a href="https://github.com/Feral1337/Toxic_comment_bert"><b>Terraform AWS Projects</b></a></td>
+      <td><a href="https://github.com/Feral1337/Toxic_comment_bert"><b>Классификация комментариев</b></a></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/Feral1337/Telecom"><b>Iris-Prediction-with-Django</b></a></td>
+      <td><a href="https://github.com/Feral1337/Telecom"><b>Прогноз оттока клиентов</b></a></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Feral1337/Taxi_pyspark_dt_gbtr"><b>Real-Time Sign-Language Detection</b></a></td>
+      <td><a href="https://github.com/Feral1337/Taxi_pyspark_dt_gbtr"><b>Предсказание заказов на след. час</b></a></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Feral1337/alfabank_campus_challenge"><b>Simple Face-Detection with OpenCV</b></a></td>
+      <td><a href="https://github.com/Feral1337/alfabank_campus_challenge"><b>Предсказания 10 следующих MCC кодов</b></a></td>
 </tr>	
 <tr>
-      <td><a href="https://github.com/Feral1337/predicting_cost"><b>Simple Face-Detection with OpenCV</b></a></td>
+      <td><a href="https://github.com/Feral1337/predicting_cost"><b>Предсказание стоймости автомобиля</b></a></td>
 </tr>	
     <tr>
-      <td><a href="https://github.com/Feral1337/best_platform"><b>Yandex.Praktikum Data-Science Projects</b></a></td>
+      <td><a href="https://github.com/Feral1337/best_platform"><b>Предсказание стоймости автомобиля</b></a></td>
     </tr>
   </tbody>
 </table>
