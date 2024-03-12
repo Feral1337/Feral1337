@@ -36,7 +36,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
       <td><a href="https://github.com/Feral1337/predicting_cost"><b>Предсказание стоймости автомобиля</b></a></td>
 </tr>	
     <tr>
-      <td><a href="https://github.com/Feral1337/best_platform"><b>Предсказание стоймости автомобиля</b></a></td>
+      <td><a href="https://github.com/Feral1337/best_platform"><b>Выявиление закономерностей определяющие успешность игры</b></a></td>
     </tr>
   </tbody>
 </table>
