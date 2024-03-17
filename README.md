@@ -27,7 +27,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
       <td><a href="https://github.com/Feral1337/Telecom"><b>Прогноз оттока клиентов</b></a></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/Feral1337/Taxi_pyspark_dt_gbtr"><b>Предсказание заказов на след. час</b></a></td>
+      <td><a href="https://github.com/Feral1337/Taxi_pyspark_dt_gbtr"><b>Предсказание заказов на следующий час</b></a></td>
 </tr>
 <tr>
       <td><a href="https://github.com/Feral1337/alfabank_campus_challenge"><b>Предсказания 10 следующих MCC кодов</b></a></td>
@@ -36,7 +36,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
       <td><a href="https://github.com/Feral1337/predicting_cost"><b>Предсказание стоймости автомобиля</b></a></td>
 </tr>	
     <tr>
-      <td><a href="https://github.com/Feral1337/best_platform"><b>Выявиление закономерностей определяющие успешность игры</b></a></td>
+      <td><a href="https://github.com/Feral1337/best_platform"><b>Определение закономерностей определяющие успешность игр</b></a></td>
     </tr>
   </tbody>
 </table>
